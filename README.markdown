@@ -1,7 +1,7 @@
 jQuery Parallax
 ===============
 
-jQuery Parallax is a script that simulates the parallax effect as seen on [nikebetterworld.com](http://www.nikebetterworld.com/).
+jQuery Parallax is a script that simulates the parallax effect as seen on
 
 Plugin: jQuery Parallax  
 Version: 1.1.3
